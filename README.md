@@ -61,9 +61,7 @@ Use cases:
 * Approve/Reject Bookings
 * Handle Refunds
 
-(Visual diagram created in Draw\.io, exported in repo.)
 
----
 
 3. User Stories
 
@@ -187,4 +185,4 @@ This documentation simulates an actual SDLC planning phase in a real tech compan
 * Requirements = Tech Specs for Developers
 
 
-Do you want me to also clean the **wireframing explanation** you gave earlier (remove stars, hashtags, and emojis too) so it blends seamlessly with this documentation?
+
